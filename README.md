@@ -1,3 +1,3 @@
 # numerical_method_lab
 
-Code to solve linear and non linear equations
+Code done in numerical methods lab
