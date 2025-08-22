@@ -9,8 +9,8 @@ a = float(input('enter the lower limit (a): '))
 b = float(input('enter the upper limit (b): '))
 n = int(input('enter the no. of partition : '))
 
-if n%2 !=0:
-    print('No of partition must be even')
+if n%3 !=0:
+    print('No of partition must be multiple of 3')
     exit()
     
 else:
